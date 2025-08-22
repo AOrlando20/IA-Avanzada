@@ -1,1 +1,1 @@
-# IA-Avanzada
+# Clase IA-Avanzada
